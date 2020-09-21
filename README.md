@@ -6,9 +6,8 @@
 - 👯 I’m looking to collaborate with other developers and content creators 
 - ⚡ Fun fact: I love to create memes, play cricket and carrom board games :star2:
 
-### Youtube Music Playing 🎧
-[<img src="http://i3.ytimg.com/vi/I3tS2oTUvHI/maxresdefault.jpg" alt="divyesh008 youtube Playing" width="350" />](https://www.youtube.com/watch?v=I3tS2oTUvHI)
-[<img src="http://i3.ytimg.com/vi/HPgPc_3nJkE/hqdefault.jpg" alt="divyesh008 youtube Playing" width="350" />](https://www.youtube.com/watch?v=I3tS2oTUvHI)
+### Spotify Playing 🎧
+[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="divyesh008 youtube Playing" width="350" />](https://open.spotify.com/user/kefsf6glmv2jh60syrzau56lb)
 
 ### Connect with me:
 
