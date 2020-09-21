@@ -18,12 +18,25 @@
 
 <br /><br />
 
+
+
 <details>
   <summary>:zap: Github Stats</summary>
 
-  <img align="left" alt="divyesh008's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=divyesh008&show_icons=true&hide_border=true" />
+  ![Divyesh's github stats](https://github-readme-stats.vercel.app/api?username=divyesh008&show_icons=true&theme=merko)
+
+ <!-- <img align="left" alt="divyesh008's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=divyesh008&show_icons=true&hide_border=true" />-->
 
 </details>
+
+<details>
+  <summary>:zap: Top Langs</summary>
+
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=divyesh008&layout=compact)](https://github.com/divyesh008/github-readme-stats)
+
+</details>
+
+
 
 
 [website]: https://codeSTACKr.com
