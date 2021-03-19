@@ -1,10 +1,10 @@
 ### Hi there, I'm Divyesh - aka [diyesh008] 👋 
 
 ## I'm Codder, Content creator and Cricket lover :fire: :rocket:
-- 🔭 I’m currently working on Xamarin.Forms
-- 🌱 I’m infinite learner and sleepless codder :laughing: 
-- 👯 I’m looking to collaborate with other developers and content creators 
-- ⚡ Fun fact: I love to create memes, play cricket and carrom board games :star2:
+- 🔭  I’m currently working on Xamarin.Forms
+- 🌱  I’m infinite learner and sleepless codder :laughing: 
+- 👯  I’m looking to collaborate with other developers and content creators 
+- ⚡  Fun fact: I love to create memes, play cricket and carrom board games :star2:
 
 ### Spotify Playing 🎧
 [<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="divyesh008 youtube Playing" width="350" />](https://open.spotify.com/user/kefsf6glmv2jh60syrzau56lb)
