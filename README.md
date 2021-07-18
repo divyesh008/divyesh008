@@ -1,24 +1,33 @@
-### Hi there, I'm Divyesh - aka [diyesh008] 👋 
+## Hola, I'm [Divyesh Bhatt!](https://www.linkedin.com/in/divyesh-bhatt-9247b7119) 👋
 
-## I'm Codder, Content creator and Cricket lover :fire: :rocket:
-- 🔭  I’m currently working on Xamarin.Forms
-- 🌱  I’m infinite learner and sleepless codder :laughing: 
-- 👯  I’m looking to collaborate with other developers and content creators 
-- ⚡  Fun fact: I love sports & games :star2:
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=divyesh008&label=Views&color=blue&style=plastic" alt="divyesh008" /> </p>
 
-### Spotify Playing 🎧
-[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="divyesh008 youtube Playing" width="350" />](https://open.spotify.com/user/kefsf6glmv2jh60syrzau56lb)
-
-### Connect with me:
-
+## Connect with me:
 [<img align="left" alt="divyesh008 | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 [<img align="left" alt="divyesh008 | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="divyesh008 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="divyesh008 | StackOverflow " width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/stackoverflow.svg" />][stackoverflow]
 
-<br /><br />
+<br />
 
+## I'm Codder, Content creator and Cricket lover :fire: :rocket:
+- 🔭  I’m currently working on Xamarin.Forms
+- 🌱  I’m currently learning more about Cross-platform tools.
+- 💬 Ask me about Xamarin or any tech-related stuff.
+- 👯  I’m looking to collaborate with other developers and content creators 
+- 😄 Pronouns: He/His
+- ⚡  Fun fact: I love sports & games :star2:
 
+**Languages and Tools:**  
+
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/xamarin/xamarin.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/swift/swift.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+
+### Spotify Playing 🎧
+[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="divyesh008 youtube Playing" width="350" />](https://open.spotify.com/user/kefsf6glmv2jh60syrzau56lb)
 
 <details>
   <summary>:zap: Github Stats</summary>
@@ -46,6 +55,7 @@
 [linkedin]: https://www.linkedin.com/in/divyesh-bhatt-9247b7119
 [stackoverflow]: https://stackoverflow.com/users/4841439/divyesh-08
 
+### Show some ❤️ by starring some of the repositories!
 
 
 
