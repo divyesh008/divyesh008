@@ -10,7 +10,7 @@
 
 <br />
 
-## I'm Codder, Content creator and Cricket lover :fire: :rocket:
+## I'm Software Engineer, I develop cool mobile apps! :fire: :rocket:
 - 🔭  I’m currently working on Xamarin.Forms
 - 🌱  I’m currently learning more about Cross-platform tools.
 - 💬 Ask me about Xamarin or any tech-related stuff.
